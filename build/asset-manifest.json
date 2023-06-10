@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smar-home/static/css/main.2ea3359e.css",
-    "main.js": "/smar-home/static/js/main.09cb8577.js",
-    "static/js/787.d3befce1.chunk.js": "/smar-home/static/js/787.d3befce1.chunk.js",
-    "static/media/smartHome.jpg": "/smar-home/static/media/smartHome.a9795de313e0ea1c960c.jpg",
-    "index.html": "/smar-home/index.html",
-    "main.2ea3359e.css.map": "/smar-home/static/css/main.2ea3359e.css.map",
-    "main.09cb8577.js.map": "/smar-home/static/js/main.09cb8577.js.map",
-    "787.d3befce1.chunk.js.map": "/smar-home/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/smart-home/static/css/main.851eebbf.css",
+    "main.js": "/smart-home/static/js/main.a151c9b7.js",
+    "static/js/787.d3befce1.chunk.js": "/smart-home/static/js/787.d3befce1.chunk.js",
+    "static/media/smartHome.jpg": "/smart-home/static/media/smartHome.a9795de313e0ea1c960c.jpg",
+    "index.html": "/smart-home/index.html",
+    "main.851eebbf.css.map": "/smart-home/static/css/main.851eebbf.css.map",
+    "main.a151c9b7.js.map": "/smart-home/static/js/main.a151c9b7.js.map",
+    "787.d3befce1.chunk.js.map": "/smart-home/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ea3359e.css",
-    "static/js/main.09cb8577.js"
+    "static/css/main.851eebbf.css",
+    "static/js/main.a151c9b7.js"
   ]
 }
