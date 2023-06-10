@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter,Routes,Route, Link } from 'react-router-dom';
+import { HashRouter,Routes,Route, Link } from 'react-router-dom';
 import Homepage from './components/Homepage';
 import Addroom from './components/Addroom';
 import Room from './components/Room';
@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{margin:'0px',}} >smart home</h1>
-      <BrowserRouter>
+      <HashRouter>
      <Link to={'/'}><button className='button-17' >home</button></Link> 
       <Routes>
         <Route path='/' element={<Homepage  roomList={roomList} />}/>
@@ -59,7 +59,7 @@ function App() {
       
       
       
-      </BrowserRouter>
+      </HashRouter>
 
 
 
